@@ -22,3 +22,8 @@ Visualize your Finch Care mood data with tag‑based highlights. This Streamlit 
 
 ```bash
 pip install streamlit pandas matplotlib
+
+## Live Demo
+
+You can try the Finch Mood Tag Analyzer online without installing anything:  
+[Open in Streamlit](https://finch-moodtag-analyzer-krdgx7phwhto7hsm9prmpg.streamlit.app/)
