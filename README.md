@@ -1,6 +1,6 @@
 ## About Finch Care
 
-**Finch Care** (also known simply as *Finch: Self‑Care Pet*) is a self‑care and mental wellness app that blends mood tracking, habit building, journaling, and guided self‑care activities with a fun virtual pet companion. Every small self‑care task you log (like mood check‑ins, journaling, breathing exercises, or simple goals) helps take care of your Finch pet and rewards you with progress and insights. The app uses gamification to make daily self‑reflection and positive routines feel more engaging and less like chores, so people can build healthy habits over time. Finch is meant to support general wellbeing, not replace professional mental health care. :contentReference[oaicite:0]{index=0}
+**[Finch Care](https://finchcare.com/)** (also known simply as *Finch: Self‑Care Pet*) is a self‑care and mental wellness app that blends mood tracking, habit building, journaling, and guided self‑care activities with a fun virtual pet companion. Every small self‑care task you log (like mood check‑ins, journaling, breathing exercises, or simple goals) helps take care of your Finch pet and rewards you with progress and insights. The app uses gamification to make daily self‑reflection and positive routines feel more engaging and less like chores, so people can build healthy habits over time. Finch is meant to support general wellbeing, not replace professional mental health care. 
 
 # Finch Mood Tag Analyzer
 
